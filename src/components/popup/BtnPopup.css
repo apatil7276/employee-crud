@@ -1,0 +1,17 @@
+.menu-popup{
+    width: 103px;
+height: 97px;
+top: 386px;
+left: 1338px;
+border-radius: 6px;
+border: 1px solid #F4F4F4;
+background-color: red;
+
+
+}
+.menu-area{
+    /* position: absolute; */
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
